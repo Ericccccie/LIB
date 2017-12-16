@@ -6,5 +6,5 @@
 ### BP NET
 * Basic BP Neural Network
 * Implemented with pure C++ (with vector)
-* Input: vector<double>
-* output: vector<double>
+* Input: vector\<double>
+* output: vector\<double>
