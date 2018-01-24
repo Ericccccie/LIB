@@ -8,3 +8,5 @@
 * Implemented with pure C++ (with vector)
 * Input: vector\<double>
 * output: vector\<double>
+### SCREENSHOT
+* Taking screenshots by calling Windows API
